@@ -1,3 +1,3 @@
 # the wild Oasis Project
 
-## the main project in jonas master react course
+## Main project in jonas schmedtmann`s Ultimate react course
